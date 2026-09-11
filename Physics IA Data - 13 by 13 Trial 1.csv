@@ -1,0 +1,7 @@
+Time t (s),Horizontal Pos. x (m),Absolute Amplitude |x| (m),ln(|x|) (m),Data Status
+0,-0.215,0.215,-1.537,Valid
+1.032,0.158,0.158,-1.845,Valid
+1.964,-0.146,0.146,-1.924,Valid
+3.03,0.11,0.11,-2.207,Valid
+3.962,-0.107,0.107,-2.235,Valid
+4.961,0.077,0.077,-2.565,Cutoff Threshold
