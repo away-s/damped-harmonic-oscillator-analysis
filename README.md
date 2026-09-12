@@ -33,4 +33,3 @@ Ideal simple harmonic motion assumes zero energy loss, but real-world oscillatio
 ├── scripts/               # Python scripts for regression, error propagation, and plotting
 ├── plots/                 # Exported decay envelopes, log-log fits, and residual plots
 ├── README.md              # Project documentation
-└── requirements.txt       # Dependencies
